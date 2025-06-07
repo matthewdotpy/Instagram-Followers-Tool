@@ -32,6 +32,7 @@ Paste the full script into the console and press Enter
 
 A popup UI will appear with category buttons. Click any to see filtered users.
 
+<img src="image.png">
 
 ## 🔐 Requirements
 
